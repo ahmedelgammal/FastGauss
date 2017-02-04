@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: FastGauss - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\elgammal\LOCALS~1\Temp\RSP22E3.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/FastGauss.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\users\Ahmed\Research\code\FastGauss\MultiDScale2Phase\FastGauss.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\elgammal\LOCALS~1\Temp\RSP22E3.tmp" 
+<h3>Output Window</h3>
+Compiling...
+FastGauss.cpp
+c:\users\ahmed\research\code\fastgauss\multidscale2phase\fastgauss.cpp(582) : warning C4101: 'i' : unreferenced local variable
+c:\users\ahmed\research\code\fastgauss\multidscale2phase\fastgauss.cpp(623) : warning C4101: 'i' : unreferenced local variable
+c:\users\ahmed\research\code\fastgauss\multidscale2phase\fastgauss.cpp(892) : warning C4018: '<' : signed/unsigned mismatch
+c:\users\ahmed\research\code\fastgauss\multidscale2phase\fastgauss.cpp(914) : warning C4018: '<' : signed/unsigned mismatch
+c:\users\ahmed\research\code\fastgauss\multidscale2phase\fastgauss.cpp(974) : warning C4018: '<' : signed/unsigned mismatch
+
+
+
+<h3>Results</h3>
+FastGauss.obj - 0 error(s), 5 warning(s)
+</pre>
+</body>
+</html>
